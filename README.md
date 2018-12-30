@@ -27,16 +27,16 @@
 Windows 10 64-bit  
 Python 3.6.1  
 
-![操作畫面1](Pictures/Picture2.png)
+![操作畫面1](Pictures/Picture2.png)  
 ▲輸入中油種類  
 
-![操作畫面2](Pictures/Picture3.png) 
+![操作畫面2](Pictures/Picture3.png)   
 ▲輸入公升數，計算範圍為±1  
 
-![操作畫面3](Pictures/Picture4.png)
+![操作畫面3](Pictures/Picture4.png)  
 ▲輸入是否為自助加油，選擇是的話油價會扣掉0.8元  
 
-![操作畫面4](Pictures/Picture5.png) 
+![操作畫面4](Pictures/Picture5.png)  
 ▲油價計算顯示  
 
 ###說明:
